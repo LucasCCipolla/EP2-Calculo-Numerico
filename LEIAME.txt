@@ -1,0 +1,17 @@
+	Para rodar este EP, as regras são
+apenas seguir a ordem oferecida pelo programa.
+
+1) O primeiro desejo do mesmo será que se coloque
+o valor de N, que é requisitado em todo o experimento.
+2) Logo após o valor de N, será requisitada a parte
+do programa que você utilizará, que está dividida no
+enunciado do EP, sendo  eles os itens a) e b).
+	2.1 Se você responder que quer rodar a parte a),
+	será requisitado o valor de nf, assim como o valor do ponto
+	que deseja imputar.
+	2.2 Se você responder que deseja a parte b) do
+	exercício, ele novamente requisitará o valor de nf,
+	assim como, na sequência, os 4 pontos que serão utilizados.
+3) Com isso, o console te entregará o valor dos resultados de X,
+na sequência Ax=B, sendo A a matriz dos produtos internos, e B
+o vetor resultado de outros produtos internos.
